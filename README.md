@@ -54,4 +54,9 @@ The following libraries are required:
 - `turnLeft()`: Turns the robot to the left.
 - `turnAround()`: Turns the robot around.
 
-Thanks you for giving your precious time to our project
+## Additional Information
+- The robot uses the `NewPing` library to measure distances using the ultrasonic sensor.
+- The `AFMotor` library is used to control the DC motors via the Adafruit Motor Shield.
+- The `Servo` library is used to control the servo motor for scanning the surroundings.
+
+Thank you for giving your precious time to our project.
